@@ -1,7 +1,5 @@
 # Week1CodeRefactor
 
-Simple overview of use/purpose.
-
 ## Description
 
 Here is a re-factor of the codebase provided. The goals were to provide a more semantic structure for accessibility standards, to clean up the code to follow a logical structure, and add minor fixes.
