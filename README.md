@@ -9,3 +9,5 @@ Here is a re-factor of the codebase provided. The goals were to provide a more s
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
+
+https://www.semrush.com/blog/semantic-html5-guide/
